@@ -145,3 +145,4 @@ Following the instructions from Peter Evans, the Swagger UI is available from th
 * https://git-scm.com/doc  (Git documentation)
 * https://notepad-plus-plus.org/  (Download Notepad++)
 * https://chris.beams.io/posts/git-commit/ (How to write a clear, helpful Git commit message)
+* https://github.com/peter-evans/swagger-github-pages (How to add the Swagger UI to your GitHub-hosted documentation)

@@ -123,6 +123,19 @@ Only collaborators with admin permissions on the nwisbeta repository can approve
 
 Not yet tested: how GitHub handles edits submitted by collaborators with non-admin permissions.
 
+## Adding Swagger UI display of the HAPI server's OpenAPI spec document
+
+[Peter Evans' Swagger GitHub Pages](https://github.com/peter-evans/swagger-github-pages) provide instructions on how to set up the Swagger UI within your site. 
+
+@velsietis provided some content to run on the UI: 
+* used a script to extract an OpenAPI specification from the Pyro server, as a JSON file. This is a demo for what the HAPI server spec would look like, as a full implementation of the FHIR standard. 
+
+* tailored it further to provide the spec only for the resources featured in the HAPI server use cases, rather than the entire FHIR standard. 
+
+@eabrown3 edited the file further using the [Swagger Editor](http://editor.swagger.io/) to include only parameter descriptions that apply to the resources in use.
+
+Following the instructions from Peter Evans, the Swagger UI is available from the 'Getting Started' page.
+
 ## References
 
 * https://idratherbewriting.com/documentation-theme-jekyll/index.html (Documentation theme using Jekyll, by Tom Johnston)

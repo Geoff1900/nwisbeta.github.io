@@ -64,6 +64,9 @@ Clicking any populated resource pulls up the resource's search and operations pa
 
 See [`Observation` resource search page](https://dhew.wales.nhs.uk/hapi-fhir-jpaserver-example/resource?serverId=home&pretty=true&resource=Observation) as example. 
 
+### Resources as a Swagger file
+See [list of resources demonstrated in the use cases](/swaggerindex.html) displayed in the Swagger editor.
+
 ## Rate limit
 
 No rate limit applied on this server: suitable for testing purposes only.

@@ -12,7 +12,7 @@ The app design must provide ordering options to suit the type of information dis
 * Most to least relevant
 * Alphabetical order
 
-If required, dynamic ordering can enable the user to manually order items, such as a patient list or to-do items, using the hold and drag gesture.
+If required, use dynamic ordering to enable the user to manually order items, such as a patient list or to-do items, using the hold and drag gesture.
 
 The app design must order alerts from high alert to low or no alert.  
 

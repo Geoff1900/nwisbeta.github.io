@@ -19,13 +19,13 @@ If search functionality is required, it must:
 <img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-search-search-example.png">
 
 ## Input
-Search must be free text field (iOS Human Interface Guidelines, Material.io).  
+Search must be a free text field (iOS Human Interface Guidelines, Material.io).  
 
 Voice search option should be available using the devices microphone for search (Material.io).  The microphone icon must indicate and action availability of voice search option.   
  
 Users should have the option of changing the microphone icon and voice search functionality to a scanner/camera functionality.  The settings menu must provide the option to change the search icon functionality.  
 
-Search input must remain in the search box, to enable the user to modify the search term, when the search tool prsents results.  
+Search input must remain in the search box, to enable the user to modify the search term, when the search tool presents results.  
   
 A clear (X) button must appear in the search box (right) when a user enters a search term . This button must delete the search term in full (iOS Human Interface Guidelines).  
 
@@ -40,7 +40,7 @@ Provide a back button (top left) after selecting a search result, to enable navi
   
 Search results should update in real-time, even as the user types.  As the user types, a list view must display potential search results directly below the search box, or show potential keywords that the user can search for.  
 
-Five most recent search items should appear under the search bar when the user selects the search bar, to provide immediate search options (Material.io). Store local database on the device with a table for 5 last search results.
+Five most recent search items should appear under the search bar when the user selects the search bar, to provide immediate search options (Material.io).
 
 Five most relevant search items should appear, and update in real-time, under the search bar during the search input, to minimise data entry and provide immediate search results.  
   

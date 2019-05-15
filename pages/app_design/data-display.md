@@ -15,7 +15,7 @@ The app design must:
 
 ## Patient Information Formatting
 
-For clinical apps, the design must:
+For clinical apps, the app design must:
 * Provide three pieces of identifiable information to identify a patient, such as patient name (first and last name), NHS number, DOB (age)  
 * Display the patient's last name in uppercase (all capitals) to clearly distinguish it from the first name (NHS Common User Interface) 
   * Example: SMITH, John (M) 943 476 5919 03/04/56 (62yrs) (NHS Common User Interface)
@@ -36,7 +36,7 @@ Avoid collecting titles - see [Data Entry](/data-entry.html).  If collected, dis
 
 Do not display more information than is required (ICO, GDPR).
 
-The app design must ensure additional non-essential information is accessible by expanding a higher level component to reveal lower level components - see [Gesture Control](/gesture-control.html) and [Pop Ups](/popups.html).
+The app design must ensure additional non-essential information is accessible by expanding a higher level component to reveal lower level components - see [Gesture Control](/touch-gesture-control.html) and [Pop Ups](/popups.html).
 
 ### Clinical App with Patient Information
 
@@ -45,4 +45,4 @@ The app design must ensure additional non-essential information is accessible by
 ## Patient Results
 Only show recent or relevant patient results to avoid display of inaccurate/misleading information (GDPR, ICO).
   
-The app design must show results only on appropriate screen size. If the device screen cannot accommodate results, provide an error message telling the user to use another device to view the results. See [Messaging and Standard Messages](/messaging.html).
+The app design must show results only on the appropriate screen size. If the device screen cannot accommodate results, provide an error message telling the user to use another device to view the results. See [Messaging and Standard Messages](/messaging.html).

@@ -9,17 +9,17 @@ folder: app_design
 
 ## Navigation
 
-Fixed top and bottom menus must enable navigation to different sections of the app (Material.io, iOS Human Interface Guidelines).
+Fixed top and bottom (direct) menus must enable navigation to different sections of the app (Material.io, iOS Human Interface Guidelines).
 
 Menu items must provide navigation only. Do not use menu items for actions (Material.io, iOS Human Interface Guidelines).
 
-Selecting menu items must take the user to the main screen associated with the menu item (Material.io).
+Selecting menu items must take the user to the main page associated with the menu item (Material.io).
 
-On a direct menu item section, selecting the menu item must scroll the page back to the top and refresh the data if applicable (Material.io). For example, in connect page, selecting the connect menu will scroll the page back to the top and refresh the data, if applicable  
+On a direct menu item section, selecting the menu item must return the user to the top of the page and refresh the page data if applicable (Material.io). For example, on the 'connect' page (which is shown as a direct menu item in our sample application screenshots), selecting the connect menu will scroll the page to the top and refresh the data if applicable.  
 
-On a page which is not a direct menu item, selecting the menu item must return the user to the direct menu item. For example, in connect page and viewing patient details (not a direct menu item), selecting the connect menu item will take the user back to the connect page.
+On a page which is not a direct menu item, selecting the menu item must return the user to the main page associated with the direct menu item. For example, on the 'connect' section but viewing patient details (not a direct menu item), selecting the connect menu item returns the user to the connect page.
 
-If there is no current direct menu location, a back button must enable navigation back to a menu location. The Back button must appear in the top left corner of the app, temporarily replacing profile/menu item icon.  
+If there is no current direct menu location, a back button must enable navigation back to a menu location. The Back button must appear in the top left corner of the app, temporarily replacing the profile/menu item icon.  
 
 If the design includes a back button, it must also enable swipe navigation to return to the previous page, as an alternative. See [Touch Gesture Control](/touch-gesture-control.html).  
 

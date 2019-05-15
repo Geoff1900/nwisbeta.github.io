@@ -22,7 +22,7 @@ The app design must
 * Store data securely during transit and at rest
 * Autosave text entry fields on the app every 30 seconds
 
-The app design should save data entry fields automatically periodically to prevent data loss (WCAG 2.1).  
+The app design should automatically save data entry fields, periodically, to prevent data loss (WCAG 2.1).  
   
 The app design must: 
 * Highlight the difference between medical information and patient information to users

@@ -11,7 +11,7 @@ folder: app_design
 Pop ups must: 
 * Require the user to act (Material.io)  
 * Provide relevant and actionable information (Material.io)  
-* Use consistent messaging (see Tools > Messaging)  
+* Use consistent messaging see [Messaging](/messaging.html)
 * Contain a heading (minimum bold 20 sp) and body text (minimum 14 sp)  
 * Display one or two action buttons (Material.io) - see [Buttons](/buttons.html)
 
@@ -21,7 +21,7 @@ Pop up headings must provide a brief statement (Material.io) of up to four words
 
 Pop up body text must provide a concise message (iOS Human Interface Guidelines), with a full stop or question mark at the end of the message (Material.io).
 
-For example, provide a 'Are you sure?' pop up with yes/no options prior to submitting, changing or deleting critical data. Use this confirmation for critical data change only, to avoid overuse (iOS Human Interface Guidelines).
+For example, provide a 'Are you sure?' pop up with yes/no options prior to submitting, changing or deleting critical data. Use this confirmation for critical data changes only, to avoid overuse (iOS Human Interface Guidelines).
 
 When a pop up appears, use a transparent overlay to darken the background.
 

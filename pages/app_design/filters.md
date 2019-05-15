@@ -9,7 +9,7 @@ folder: app_design
 
 The app design must:
 * Display filter options, when users can narrow search options, from pre-set options
-* Provide both filter text and icon to indicate presence of filter option
+* Provide both filter text and icon to indicate the presence of a filter option
 * Allow users to reset filter options
 
 <img src="/images/examples/design-standards-navigation-filters-icon.png" style="max-width: 120px;">

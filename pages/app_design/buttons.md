@@ -69,7 +69,7 @@ Pop up buttons must appear on the appropriate side and in the appropriate colour
 * A single action button, such as OK or Cancel, appears in the middle  
 
 Pop up action buttons must use visual weighting:
-* Primary action button colour use NHS Wales Blue (RGB: 44 62 114, CYMK: 95 80 26 13, HEX: #2C3E72)
+* Primary action button colour use NWIS (RGB: 44 62 114, CYMK: 95 80 26 13, HEX: #2C3E72)
 * Secondary action button colour use Grey (contrast on white background) (RGB: 89, 89, 89, CMYK: 00 00 00 65, HEX: #595959)
 
 ### Confirm an Action 

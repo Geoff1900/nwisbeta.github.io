@@ -9,7 +9,7 @@ folder: app_design
 
 The app design must provide feedback for every user action (iOS Human Interface Guidelines). For example:
 
-* Profide confirmation messages for data entry
+* Provide confirmation messages for data entry
 * Show entry of each digit as a dot for PIN entry
 
 ### User Feedback with Pop Up Message

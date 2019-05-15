@@ -17,12 +17,10 @@ Support information and tutorials must:
 
 ## Support
 
-Base categories of support information on the app functions.  
-Present category titles in bold text.  
-Use visual dividers to separate list items.  
-
-Support information can be used in blank spaces within the app to encourage usage  
-* Example: Click here to enter patient information   
+* Base categories of support information on the app functions.  
+* Present category titles in bold text.  
+* Use visual dividers to separate list items.  
+* Support information can be used in blank spaces within the app to encourage usage. Example: 'Tap to enter patient information'   
 
 ## Tutorials
 
@@ -36,11 +34,11 @@ User guides must indicate the position of the current page in the guide using in
 
 Users must be able to navigate forwards and backwards during a tutorial with swipe gesture.  
 
-Stakeholder should determine whether tutorials are automatic or manually activated.    
+The stakeholder should determine whether tutorials are automatic or manually activated.    
 
 For automatic tutorials: 
-* Set up a general app tutorial when a user first loads and uses the app
-* Set up a tutorial for a specific function at first use, such as using a watchlist: ensure the presence and access point of the tutorial is clearly available 
+* Invoke a general app tutorial when a user first loads and uses the app
+* Invoke a tutorial for a specific function at first use, such as using a watchlist: ensure the presence and access point of the tutorial is clearly available 
 
 Users must have the option to activate tutorials in the help section - see [Standard Features](/standard-features.html).
 

@@ -14,10 +14,12 @@ The messaging used throughout the app must:
 * Remain consistent 
 * Use standard phrases
 
-Provide 'click here' type of functionality when messaging connects to an action:
+Provide 'click here' type functionality when messaging connects to an action:
 
 * Link text must be in bold and underlined - see [Typography](/typography.html). 
-* Link must open new page or pop up
+* Link must open a new page or pop up
+
+## Standard Messages
 
 ### Patient Lookup
 
@@ -84,7 +86,7 @@ See [Pop Ups](/popups.html) and [Buttons](/buttons.html) for details.
 
 ## Pop Up
 Present pop up messages with heading and body text. See [Pop Ups](/popups.html).  
-Depending on the action available, pop ups must contain one or two action buttons, which must use the following terms:
+Depending on the action available, pop ups must contain one or two action buttons, which must use the following terms in the order shown:
 
 * No and Yes  
 * Cancel and OK  

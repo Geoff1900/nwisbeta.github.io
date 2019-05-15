@@ -21,19 +21,18 @@ The app design must use standard and familiar gestures (iOS Human Interface Guid
 
 ## Single Tap 
 
-Single tap gestures must allow navigation, perform actions, and make choices within the app (Material.io, iOS Human Interface Guidelines) including selecting:
-* Buttons
-* Menu items
-* Data fields
+Single tap gestures must allow navigation, perform actions, and make selection choices within the app (Material.io, iOS Human Interface Guidelines). 
 
-Higher level components must expand lower level components through a single tap to the following items:
-* Top or bottom menu item: provides navigation
-* Bottom menu item: when user is using bottom menu item, scrolls to top of page and refreshes page 
+App design must reveal the following functionality through a single tap gesture:
+
+* Buttons, Menu items and Data fields: provides item selection
+* Top or Botton menu items: provides navigation
+* Bottom menu item: scrolls to top of page and refreshes data (if appropriate) 
 * Top of screen: scrolls to top of page
-* Action button: performs the action, such as log out  
+* Action button: performs the action, such as log out 
 * Text box: allows data entry
-* Tick boxes: selects a box
-* Higher level component, such as top level patient information: reveals lower level components, such as patient contact details
+* Tick boxes: selects a Tick box
+* Higher level components, such as top level patient information: reveals lower level components, such as patient contact details
  
 ## Scroll
 Scroll gestures must allow navigation through continuous information (Material.io, iOS Human Interface Guidelines), including:  
@@ -46,12 +45,12 @@ Scroll gestures must only scroll through one view at a time – do not nest one 
 ## Swipe 
 Swipe gestures must allow navigation, and actions within the app, (Material.io, iOS Human Interface Guidelines) including:  
 * Go back to previous page, using swipe right
-* Transition across related categories on a single page (sibling transition)
+* Transition across related categories on a single page - a sibling transition
 * Reveal or complete action e.g. delete or acknowledge
 * Move through a tutorial
 * Swipe down to refresh
 * 'Paging' through multiple tutorial pages
-* To acknowledge a notification or alert
+* Acknowledge a notification or alert
 * Reveal delete button  
 
 If a back button provides navigation to a previous page, the back swipe gesture must allow navigation to a previous pages, as an alternative method.

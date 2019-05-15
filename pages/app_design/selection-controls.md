@@ -76,7 +76,7 @@ Avoid pre-selecting checkboxes.
 ## Dropdown/pickers
 Dropdown/pickers include one or more scrollable lists of values (iOS Human Interface Guidelines), such as date, time, country, or blood type.
 
-The design can use dropdown/pickers to select from multiple options, such as selecting a country from a pre-set list.  
+The app design can use dropdown/pickers to select from multiple options, such as selecting a country from a pre-set list.  
 
 Dropdown/pickers must:
 * Appear at the bottom of the screen (the height of five rows of values) (iOS Human Interface Guidelines)

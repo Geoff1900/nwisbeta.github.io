@@ -17,7 +17,7 @@ Do design a new icon rather than misusing existing icons (iOS Human Interface Gu
 
 Icons must:
 * Be clear, single tone and forward facing (Material.io, iOS Human Interface Guidelines)  
-* Used consistently across the app - see [Icons and Assets](/icons-assets.html)  
+* Used consistently across the app 
 * Appear in appropriate colours - see [Branding](/branding.html)  
 * Use colour to indicate selected and deselected states: do not use two different icons to indicate selected and deselected states such as a solid and outlined version (iOS Human Interface Guidelines)  
 * Be labelled with appropriate text (WCAG 2.1), in title case: do not include text within an icon (iOS Human Interface Guidelines)  
@@ -33,7 +33,7 @@ Save icons in PNG or SVG formats (Material.io), SVG perferred. SVG format requir
 Store app icons in 1024px x 1024px resolution as SVG. 
 
 ## Downloads
-The app design should use the icons and assets provided as first choice (available in PNG and SVG formats).
+The app design should use the icons provided as first choice (available in PNG and SVG formats).
 
 New icons must only be created if icons provided are not suitable. New icons must:
 *   Be clear, single tone and forward facing

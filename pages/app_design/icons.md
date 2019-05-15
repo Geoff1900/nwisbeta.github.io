@@ -96,21 +96,8 @@ Select to download zipped files.
 							<td>barcode_black</td>
 							<td>Barcode for scanning icon</td>
 							<td><img src="/images/icons/barcode_black.svg"></td>
-							<td rowspan="3"><a href="/images/downloads/icons-assets/nwis-barcode.zip">Download barcode</a></td>
+							<td rowspan="1"><a href="/images/downloads/icons-assets/nwis-barcode.zip">Download barcode</a></td>
 						</tr>
-						
-						<tr>
-							<td>barcode_grey</td>
-							<td></td>
-							<td><img src="/images/icons/barcode_grey.svg"></td>
-						</tr>
-						
-						<tr>
-							<td>barcode_white</td>
-							<td></td>
-							<td><img src="/images/icons/barcode_white.svg"></td>
-						</tr>
-						
 						
 						<tr>
 							<td>calendar_black</td>
@@ -500,43 +487,17 @@ Select to download zipped files.
 							<td><img src="/images/icons/user_white.svg"></td>
 						</tr>
 						
-						
-						<tr>
-							<td>watchlist_black</td>
-							<td>On watchlist icon</td>
-							<td><img src="/images/icons/watchlist_main_blue.svg"></td>
-							<td rowspan="3"><a href="/images/downloads/icons-assets/nwis-watchlist.zip">Download watchlist</a></td>
-						</tr>
-						
 						<tr>
 							<td>watchlist_blue</td>
-							<td></td>
+							<td>On watchlist icon</td>
 							<td><img src="/images/icons/watchlist_blue.svg"></td>
+							<td rowspan="2"><a href="/images/downloads/icons-assets/nwis-watchlist.zip">Download watchlist</a></td>
 						</tr>
 						
 						<tr>
 							<td>watchlist_white</td>
 							<td></td>
 							<td><img src="/images/icons/watchlist_white.svg"></td>
-						</tr>
-
-						<tr>
-							<td>watchlist_outlined_black</td>
-							<td>Not on watchlist icon</td>
-							<td><img src="/images/icons/watchlist_outlined_black.svg"></td>
-							<td rowspan="3"><a href="/images/downloads/icons-assets/nwis-watchlist_outlined.zip">Download watchlist outline</a></td>
-						</tr>
-						
-						<tr>
-							<td>watchlist_outlined_blue</td>
-							<td></td>
-							<td><img src="/images/icons/watchlist_outlined_blue.svg"></td>
-						</tr>
-						
-						<tr>
-							<td>watchlist_outlined_white</td>
-							<td></td>
-							<td><img src="/images/icons/watchlist_outlined_white.svg"></td>
 						</tr>
 
 					</tbody>

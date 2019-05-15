@@ -13,7 +13,7 @@ The app's text must use terms consistently throughout (iOS Human Interface Guide
 
 Terms must be familiar, friendly, clear, and easy to understand (iOS Human Interface Guidelines).
 
-Avoid patronising sentence constructions: for example, referring to users as 'we', 'our', and 'me', like the label My Settings (iOS Human Interface Guidelines).  
+Avoid patronising sentence constructions: for example, referring to users as 'we', 'our', 'me' and 'my', like the label My Settings (iOS Human Interface Guidelines).  
 
 Use a readability test tool like [WebFX's read-able](https://www.webfx.com/tools/read-able/) to test content reading level.
 
@@ -62,8 +62,8 @@ Menu
 
 User preferences  
 Profile  
-First name  
-Last name  
+First Name 
+Last Name  
 Date of Birth  
 Sex  
 Gender  

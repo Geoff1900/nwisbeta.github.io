@@ -9,9 +9,9 @@ folder: app_design
 
 ## Passwords
 
-If the app offers user registration through the app interface, rather than an administrator setting up a user, the design must:
+If the app allows the user to self-register, the design must:
 * Hide password characters behind dots for security (iOS Human Interface Guidelines)  
-* Display lock icon next to password field - see [Icons](/icons.html)  
+* Display a lock icon next to password field - see [Icons](/icons.html)  
 
 ## Non-essential Information 
 
@@ -37,13 +37,13 @@ The app must send registration receipts in the same format as they were agreed o
 
 Consider email validation during the registration process. 
 
-An error message must appear immediately, whilst the user is completing data entry, when there is a validation error for registration details (GOV.UK Design System) - see [Errors](/errors.html). Avoid displaying error messages after the user has submitted the form.
+Any error message must appear immediately when a validation error occurs during registration, while the user is completing data entry (GOV.UK Design System) - see [Errors](/errors.html). Avoid displaying error messages after the user has submitted the form.
 
 ### Obtain Consent if Required
 
 Consent (if appropriate) must follow the same process as for agreeing to terms and conditions. NHS Wales-led Information Governance rules decide whether consent is appropriate, and whether consent is integrated or separate from normal registration.  
 
-Do not combine the process of registration, agreeing to terms and conditions, and providing consent on the same page. Treat processes as separate, and present them on separate pages.  
+Do not combine the process of registration, agreeing to terms and conditions, and providing consent on the same page. Treat these processes as separate, and present them on individual pages.  
 
 ### User Credentials Required for Registration
 

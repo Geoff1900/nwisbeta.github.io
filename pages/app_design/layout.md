@@ -13,7 +13,7 @@ The app design must:
 
 * Use a consistent layout across similar pages and components (WCAG 2.1, Material.io, iOS Human Interface Guidelines), including locations for menu item locations and button locations
 * Provide navigation menus at the top and bottom of each page - see [Menus](/menus.html)
-* Display the search bar at the top centre of each page - see [Search](/search.html), where search facility is present
+* Display the search bar at the top centre of each page - see [Search](/search.html), where a search facility is present
 * Use a consistent layout for titles, headings, subtitles, body text - see [Typography](/typography.html)  
 
 Consider and refer to layout standards, standard access points - see [Menus](/menus.html) and standard features - see [Standard Features](/standard-features.html). Default positions for features include:  
@@ -49,7 +49,7 @@ When the app design uses columns to display information:
 
 Avoid a layout that requires a lot of scrolling. 
 
-Do not display too much information on one page(WCAG 2.1, ICO, GDPR). The layout must:
+Do not display too much information on one page (WCAG 2.1, ICO, GDPR). The layout must:
 * Display the most important information without scrolling (WCAG 2.1)  
 * Avoid displaying more than ten data fields on a single page - see [Data Entry](/data-entry.html) 
 

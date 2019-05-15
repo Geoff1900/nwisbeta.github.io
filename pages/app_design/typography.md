@@ -11,13 +11,9 @@ folder: app_design
 
 Calibri should be used as the NWIS brand font for web content.
 
-The app design must set font size in sp (Scale-independent Pixels). This measurement configures easily to use larger font size for accessibility.
+The app design must set font size in sp (Scale-independent Pixels). This measurement scales easily, to use larger font size for accessibility.
  
 Example: (sp = px * ratio * scale)  
-Minimum font size 34 (sp) must be used for titles  
-Minimum font size 16 (sp) must be used for headings  
-Minimum font size 14 (sp) must be used for subtitles  
-Minimum font size 12 (sp) must be used for body text  
 
 ### General Font Standards
 
@@ -25,7 +21,7 @@ Minimum font size 12 (sp) must be used for body text
 |----------|-----------|----------------|-----------|-------------------------------------------------|
 | Title    | Calibri   | 34             | Title     | Bold                                            |
 | Heading  | Calibri   | 20             | Title     | Bold                                            |
-| Subtitle | Calibri   | 16  _different from list_ | Sentence  | Plain                                           |
+| Subtitle | Calibri   | 16             | Sentence  | Plain                                           |
 | Body     | Calibri   | 14             | Sentence  | Important information in bold i.e. patient name |
 
 
@@ -45,69 +41,16 @@ Minimum font size 12 (sp) must be used for body text
 | 60 | 60 | 3.75   |
 
 ##  Colour 
-The app design must use the NHS Wales primary palette colours or white, black and grey colours for text colour.
 
-### Primary Palette
-<div class="swatch-wrapper">
-	<div class="row text-center">
-		<div class="col-md-4" style="background-color: rgb(44, 62, 114); color: white; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">NHS Wales Blue</span><br>
-			<span class="">R:44 G:62 B:114</span><br>
-			<span class="small">#2C3E72</span><br>
-			<span class="small">C:95 M:80 Y:26 K:13</span>
-		</div>
-		<div class="col-md-4" style="background-color: rgb(18, 163, 201); color: white; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">NWIS Blue</span><br>
-			<span class="">R:18 G:163 B:201</span><br>
-			<span class="small">#12A3C9</span><br>
-			<span class="small">C:75 M:15 Y:14 K:0</span>
-		</div>
-		<div class="col-md-4" style="background-color: rgb(151, 204, 57); color: white; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">NWIS Green</span><br>
-			<span class="">R:151 G:204 B:57</span><br>
-			<span class="small">#97CC39</span><br>
-			<span class="small">C:49 M:0 Y:89 K:0</span>
-		</div>
-	</div>
-</div>
+The app design must use the NWIS primary palette for text colour. see [Branding>Primary Palette](/branding.html#primary-palette). 
 
-### Black and White Colours
-
-<div class="swatch-wrapper">
-	<div class="row text-center">
-		<div class="col-md-3" style="background-color: rgb(255, 255, 255); color: black; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">White</span><br>
-			<span class="">R:255 G:255 B:255</span><br>
-			<span class="small">#FFFFFF</span><br>
-			<span class="small">C:0 M:0 Y:0 K:0</span>
-		</div>
-		<div class="col-md-3" style="background-color: rgb(0, 0, 0); color: white; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">Black</span><br>
-			<span class="">R:0 G:0 B:0</span><br>
-			<span class="small">#000000</span><br>
-			<span class="small">C:0 M:0 Y:0 K:100</span>
-		</div>
-		<div class="col-md-3" style="background-color: rgb(89, 89, 89); color: white; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">Dark Grey</span><br>
-			<span class="">R:89 G:89 B:89</span><br>
-			<span class="small">#595959</span><br>
-			<span class="small">C:0 M:0 Y:0 K:59</span>
-		</div>
-		<div class="col-md-3" style="background-color: rgb(227, 227, 227); color: black; padding: 20px 10px 10px 10px;">
-			<span class="swatch_title">Light Grey</span><br>
-			<span class="">R:227 G:227 B:227</span><br>
-			<span class="small">#E3E3E3</span><br>
-			<span class="small">C:0 M:0 Y:0 K:11</span>
-		</div>
-	</div>
-</div>
 ### Contrast
 
-Text of 18pt or smaller must have a minimum contrast ratio of 4:5:1 between the colour of the text and colour of the background behind the text - see [Accessibility](/accessibility.html).  
+Text of 18pt or smaller must have a minimum contrast ratio of 4:5:1 between the colour of the text and the colour of the background behind the text - see [Accessibility](/accessibility.html).  
 
-Text of more than 18pt must have a minimum contrast ratio of 3:1 between the text colour and colour of the background behind the text.
+Text of more than 18pt must have a minimum contrast ratio of 3:1 between the text colour and the colour of the background behind the text.
 
-For checking contrast use the following tools:  
+Use the following tools to check contrast:  
 * [contrastchecker.com](https://contrastchecker.com/)
 * [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 
@@ -148,8 +91,8 @@ Avoid using all-capital letters, like SAVE, except for last names - see [Termino
 <img src="/images/examples/design-standards-case-example.png">
 
 Titles, headings, subtitles, buttons and icons must use title case, capitalising the first letter of each word. Examples:  
-* App name: for example, Welsh Clinical Portal)
-* Information type: for example, Date of Birth, Hospital Number, Patient Information)
+* App name: for example, Welsh Clinical Portal
+* Information type: for example, Date of Birth, Hospital Number, Patient Information
 
 Body text, lists, bullet points and numbered lists must use sentence case, capitalising the first word only (Material.io). 
 

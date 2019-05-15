@@ -34,7 +34,8 @@ Do not use the same logo more than once on each page.
 <img src="/images/examples/design-standards-home-example.png" alt="Examples of white icon on a solid colour background, and coloured icon on a white background, with a colour border" style="max-width: 120px">
 
 ## Colour
-The app design for all app UI elements must use NWIS brand standards, unless the designers generate an agreed exception.
+The app design must use the NWIS primary palette for text colour and the primary or secondary colour palettes for all other app UI elements, unless the designers generate an agreed exception.
+
 
 ## Primary Palette
 

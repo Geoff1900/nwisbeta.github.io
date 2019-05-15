@@ -15,7 +15,7 @@ Their purpose is to guide anyone building mobile applications on behalf of NWIS.
 These standards have been validated through external expert review and NWIS stakeholder and user workshops and engagement that first took place in summer 2018.  
 
 ## Scope
-The standards apply to the guidance of UX and UI implementation for mobile (phone and tablet devices) native operating system applications for NHS Wales use. For the purpose of interoperability and transferability, this documentation aligns with existing and emerging national and international standards, and with NWIS standards and branding.
+The standards apply to the guidance of UX and UI implementation for mobile (phone and tablet devices) native operating system applications for NWIS use. For the purpose of interoperability and transferability, this documentation aligns with existing and emerging national and international standards, and with NWIS standards and branding.
 
 ## Design Principles
 
@@ -33,7 +33,7 @@ The app design standards were produced to align with the following principles:
 
 The guidance complies with the following harmonised standards. References to these standards appear in brackets. 
 
-*   [Welsh Technical Standards Board](https://wardle.org/wales/2018/05/15/wtsb.html)
+*   [Welsh Technical Standards Board](https://standards.cymru/)
 *   [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) and [Application to Mobile](https://www.w3.org/TR/mobile-accessibility-mapping/)
 *   [NHS Digital Interoperability Toolkit](https://digital.nhs.uk/services/the-interoperability-toolkit)
 *   [UK Design Council Double Diamond Design Process](https://www.designcouncil.org.uk/news-opinion/design-process-what-double-diamond)

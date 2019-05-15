@@ -23,13 +23,13 @@ The log in page must include:
 
 <img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-login-app-name.png" caption="Generic app log in page enabling users to gain access to the app through authentication with their username/email address and password">
 
-If the log in process requires the following fields:  
+  
 * Relevant icons must appear next to log in credential fields (see Tools > Icons)
-* Appropriate default keyboard must enable data entry (iOS Human Interface Guidelines)
+* The appropriate default keyboard must enable data entry (iOS Human Interface Guidelines)
 * Use dots to hide password characters, for password security (iOS Human Interface Guidelines)
 * Biometric (fingerprint/facial recognition) log in should be supported, though not relied on, as a method of log in, as not all devices support this option (iOS Human Interface Guidelines)
 
-The log in page must display forgotten details message, and link for password reset. See [Messaging and Standard Messages](/messages.html) for sample messages wordings.
+The log in page must display a forgotten details message and a link for password reset. See [Messaging and Standard Messages](/messages.html) for sample messages wordings.
 
 ### Access Through an External Authentication Service
 
@@ -40,7 +40,7 @@ The log in page must display forgotten details message, and link for password re
 The log in after session timeout page must include:
 
 * NHS Wales logo at top middle of the screen 
-* NHS Wales colour splash  at bottom right of the screen
+* NWIS colour splash  at bottom right of the screen
 * App name 
 * Request for PIN or email and password, or biometric (fingerprint/facial ID) authenticated entry
 * Dots to hide password characters, for password security (iOS Human Interface Guidelines) 
@@ -61,5 +61,5 @@ The log out feature must:
 
 * Have a button in settings (Material.io)  
 * End session  
-* Take user to log in page after selecting log out
+* Take the user to the log in page after selecting log out
 

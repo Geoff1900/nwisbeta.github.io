@@ -39,7 +39,7 @@ The app design must:
 * Use visual dividers to separate list items
 * Group settings into categories
 * Show category titles
-* Use up to six main categories
+* Avoid using more than six main categories
 * Avoid using more than six menu items within each category
 
 Settings must save user preferences (Material.io). 
@@ -87,11 +87,11 @@ Information-only content does not require a notification, or action on the part 
 
 Critical feed items which require a response from the user, must:
 * Provide a notification to alert the user, such as vibrating the phone or a sound
-* Must enable the user to address and resolve the issue, using protocols that the executive governance group have established
+* Must enable the user to address and resolve the issue, using protocols that an appropriate governance group have established
 
 In-app notifications - see [Pop Ups](/popups.html) - should prevent the user from doing other things until they take action (iOS Human Interface Guidelines).  
 
-Important or critical feed items must appear at the top of the feed until acknowledged by the user. After the user acknowledges a feed item, it must appear a past feed item, with a different colour background, to differentiate it from unread feed items  
+Important or critical feed items must appear at the top of the feed until acknowledged by the user. After the user acknowledges a feed item, it must appear as a past feed item, with a different colour background, to differentiate it from unread feed items.  
 
 The feed display must show a one-month history of feed items, loading 10 items at a time.
 
@@ -140,7 +140,7 @@ See [Touch Gesture Controls](/touch-gesture-control.html) for guidance about sta
 Users must be able to modify which patients or people appear on their watchlist.  
 
 ### Alerts
-Users must address and resolve any alert using established and signed-off protocols, agreed at the executive governance level.  For clinical alerts, both clinical and information governance personnel must sign off on protocols. The national body that signed off the protocols must appear at the top of this alert section, including signoff date, and be updated or ratified periodically.
+Users must address and resolve any alert using established and signed-off protocols, agreed at an appropriate governance level.  For clinical alerts, both clinical and information governance personnel must sign off on protocols. The national body that signed off the protocols must appear at the top of this alert section, including signoff date, and be updated or ratified periodically.
 
 | Alert Protocol Version | Sign Off Date | Signatories (list) |
 |------------------------|---------------|--------------------|
@@ -177,7 +177,7 @@ Optional discriminators relating to contrast between message/border and fill:
 These guidelines ensure that colour is not the sole visual representation of alerts (Material.io).
 
 ## Notifications
-Users must address and resolve any notification using established and signed-off protocols, agreed at the executive governance level. For clinical notifications both clinical and information governance personnel must sign off on protocols. The national body that signed off the protocols must appear at the top of this alert section, including signoff date, and be updated or ratified at least annually.
+Users must address and resolve any notification using established and signed-off protocols, agreed at an appropriate governance level. For clinical notifications both clinical and information governance personnel must sign off on protocols. The national body that signed off the protocols must appear at the top of this alert section, including signoff date, and be updated or ratified at least annually.
 
 | Notification Protocol Version | Sign Off Date | Signatories (list) |
 |-------------------------------|---------------|--------------------|

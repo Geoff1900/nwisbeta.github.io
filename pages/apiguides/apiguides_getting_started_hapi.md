@@ -1,6 +1,6 @@
 ---
 title: Getting Started with HAPI server
-keywords: 
+keywords: started, install, .NET, test, libraries
 tags: [getting_started, FHIR, HAPI]
 sidebar: api_sidebar
 toc: true

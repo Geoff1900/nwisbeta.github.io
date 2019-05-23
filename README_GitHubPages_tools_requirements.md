@@ -109,6 +109,42 @@ After pushing content from your local copy to the GitHub server, go to https://g
 
 See [About pull requests](https://help.github.com/en/articles/about-pull-requests) for details.
 
+## Undoing errors
+
+Git has powerful tools for undoing errors. The two used so far in this project are `Revert`, and checking out an individual commit from a past pull request.
+
+### Revert
+
+Revert undoes a pull request. This feature is useful if, for instance,  you want to apply recent changes in `master` to a branch, but accidentally apply branch changes to `master`.
+
+It doesn't matter if it is a recent request or not, though older pull requests will require more fixes to merge into work again.
+
+The `Revert` button appears at the bottom of the list of commits in a pull request. 
+
+See [Reverting a pull request](https://help.github.com/en/articles/reverting-a-pull-request).
+
+### Checking out a specific commit
+
+Git never truly deletes any content; it holds *all versions of content* forever.  This feature means that past versions of your work are still available in past commits and pull requests.
+
+You can use `checkout` and a commit's hash number (the 7-digit hex number which identifies every commit) to check out specific files from past commits. This feature is useful if you accidentally overwrite content, realise the mistake later, want to resurrect your specific files, but do not want to revert a large pull request with all its committed changes.
+
+1. Find your commit by browsing through the closed pull requests. Each commit has a unique hash. Click the hash to view the changes you want to undo.
+
+2. On your desktop, in a clean branch:
+
+`git checkout <commit hash> /path/to/your/file.md`
+
+You can enter multiple file paths with a single space between each, in a single checkout.
+
+The files will appear in your local repository.
+
+3. Enter `git status` to confirm you've retrieved the correct files. They will appear as added, and ready to commit.
+
+4. Edit files as needed, save, and run locally (on the desktop) to test them. 
+
+5. Commit and push to the repository branch as usual.
+
 ## Open source comments and corrections
 
 On the nwis.github.io pages, each page includes an 'Edit Me' button. The button links to a 'reviews_feedback' branch on the nwisbeta.github.io repository.  

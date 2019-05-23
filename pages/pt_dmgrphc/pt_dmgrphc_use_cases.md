@@ -1,7 +1,7 @@
 ---
 title: "Patient Demographic Data API: Use Case Queries"
 tags: [NWIS_API, FHIR, use_case, code_sample]
-keywords: patient, code, sample,
+keywords: patient, code, sample, family, 
 sidebar: api_sidebar
 toc: true
 permalink: pt_dmgrphc_use_cases.html

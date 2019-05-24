@@ -14,4 +14,4 @@ The app design must provide feedback for every user action (iOS Human Interface 
 
 ### User Feedback with Pop Up Message
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-user-interaction-feedback.png">
+<img class="img-responsive img-thumbnail" alt="" src="/images/examples/design-standards-user-interaction-feedback.png">

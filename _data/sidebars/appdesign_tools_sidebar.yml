@@ -2,17 +2,10 @@
 
 entries:
 - title: sidebar
-  product: "App Design Standards: Tools"
+  product: "App Design Standards: Planning tools"
   version: 1.0
   folders:
 
-  - title: Tools
-    output: web, pdf
-    folderitems:
-    - title: Icons and assets
-      url: /icons-assets.html
-      output: web
-      
   - title: Considerations
     output: web, pdf
     folderitems:

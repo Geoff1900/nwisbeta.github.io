@@ -16,7 +16,7 @@ If search functionality is required, it must:
 <img src="/images/examples/design-standards-navigation-search-input.png" style="max-width: 2000px">
 
 ### Generic Layout Showing Search Feature
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-search-search-example.png">
+<img class="img-responsive img-thumbnail" alt="Generic Layout Showing Search Feature" src="/images/examples/design-standards-navigation-search-search-example.png">
 
 ## Input
 Search must be a free text field (iOS Human Interface Guidelines, Material.io).  

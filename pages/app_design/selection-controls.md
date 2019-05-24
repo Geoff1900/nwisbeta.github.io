@@ -20,11 +20,11 @@ When a user selects a toggle, the action must take place immediately (Material.i
     <div class="row">
     <div class="col-sm-6" > 
 		<h3>Toggle On</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-toggle-on.png">
+		<img class="img-responsive img-thumbnail" alt="Toggle On" src="/images/examples/design-standards-navigation-toggle-on.png">
     </div>
     <div class="col-sm-6">
 		<h3>Toggle Off</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-toggle-off.png">
+		<img class="img-responsive img-thumbnail" alt="Toggle Off" src="/images/examples/design-standards-navigation-toggle-off.png">
     </div>
   </div>
 </div>
@@ -42,11 +42,11 @@ Avoid pre-selecting radio buttons.
     <div class="row">
     <div class="col-md-6 col-lg-6" > 
 		<h3>Radio Button Selected</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-radio-on.png">
+		<img class="img-responsive img-thumbnail" alt="Radio Button On" src="/images/examples/design-standards-navigation-radio-on.png">
     </div>
     <div class="col-md-6 col-lg-6">
 		<h3>Radio Button Unselected</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-radio-off.png">
+		<img class="img-responsive img-thumbnail" alt="Radio Button Off" src="/images/examples/design-standards-navigation-radio-off.png">
     </div>
   </div>
 </div>
@@ -64,11 +64,11 @@ Avoid pre-selecting checkboxes.
     <div class="row">
     <div class="col-md-6 col-lg-6"> 
 		<h3>Checkbox 'Checked'</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-checkbox-on.png">
+		<img class="img-responsive img-thumbnail" alt="Checkbox On" src="/images/examples/design-standards-navigation-checkbox-on.png">
     </div>
     <div class="col-md-6 col-lg-6">
 		<h3>Checkbox 'Unchecked'</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-checkbox-off.png">
+		<img class="img-responsive img-thumbnail" alt="Checkbox Off" src="/images/examples/design-standards-navigation-checkbox-off.png">
     </div>
   </div>
 </div>

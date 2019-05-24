@@ -25,12 +25,12 @@ Consider and refer to layout standards, standard access points - see [Menus](/me
 	<div class="row">
 		<div class="col-md-6 col-lg-6" style="padding: 00px 10px 20px 10px;">
 			<h3>Generic App Layout</h3>
-			<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-generic-layout.png">
+			<img class="img-responsive img-thumbnail" alt="Generic Layout" src="/images/examples/design-standards-generic-layout.png">
 		</div>
 				
 		<div class="col-md-6 col-lg-6" style="padding: 00px 10px 20px 10px;">
 			<h3>Log In Page</h3>
-			<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-layout-login.png">
+			<img class="img-responsive img-thumbnail" alt="Log In page" src="/images/examples/design-standards-layout-login.png">
 		</div>
 	
 	</div>
@@ -62,11 +62,11 @@ The app design should use margins and spacing where possible (iOS Human Interfac
 
 		<div class="col-md-6 col-lg-6" style="padding: 00px 10px 20px 10px;">
 			<h3>Patient Information</h3>
-			<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-layout-patient-info.png">
+			<img class="img-responsive img-thumbnail" alt="Patient Information Layout" src="/images/examples/design-standards-layout-patient-info.png">
 		</div>
 				
 		<div class="col-md-6 col-lg-6" style="padding: 00px 10px 20px 10px;">
 			<h3>Settings Menu</h3>
-			<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-layout-settings.png">
+			<img class="img-responsive img-thumbnail" alt="Settings Layout" src="/images/examples/design-standards-layout-settings.png">
 		</div>
 	</div>	

@@ -27,7 +27,7 @@ When a pop up appears, use a transparent overlay to darken the background.
 
 ### Pop up Message with Action Buttons
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-user-interaction-popup.png">
+<img class="img-responsive img-thumbnail" alt="Pop up Message with Action Buttons" src="/images/examples/design-standards-user-interaction-popup.png">
 
 Pop ups require a minimum contrast ratio of 3:1 between the pop up colour and colour of the screen behind the pop up (WCAG 2.1) - see [Accessibility](/accessibility.html).
 

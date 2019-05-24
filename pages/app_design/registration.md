@@ -47,12 +47,12 @@ Do not combine the process of registration, agreeing to terms and conditions, an
 
 ### User Credentials Required for Registration
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-registration1.png">
+<img class="img-responsive img-thumbnail" alt="User Credentials Required for Registration" src="/images/examples/design-standards-access-registration1.png">
 
 ### User Credentials Required for Registration, Second Step
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-registration2.png">
+<img class="img-responsive img-thumbnail" alt="User Credentials Required for Registration, Second Step" src="/images/examples/design-standards-access-registration2.png">
 
 ### Terms and Conditions as a Summary and in Full, Final Step 
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-registration3.png">
+<img class="img-responsive img-thumbnail" alt="Terms and Conditions as a Summary and in Full, Final Step" src="/images/examples/design-standards-access-registration3.png">

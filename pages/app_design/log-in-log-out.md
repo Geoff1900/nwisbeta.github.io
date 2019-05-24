@@ -21,7 +21,7 @@ The log in page must include:
 
 ### Access Using Username or Email Address, and Password Authentication
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-login-app-name.png" caption="Generic app log in page enabling users to gain access to the app through authentication with their username/email address and password">
+<img class="img-responsive img-thumbnail" alt="Log In Using Username or Email Address, and Password Authentication" src="/images/examples/design-standards-access-login-app-name.png" caption="Generic app log in page enabling users to gain access to the app through authentication with their username/email address and password">
 
   
 * Relevant icons must appear next to log in credential fields (see Tools > Icons)
@@ -33,7 +33,7 @@ The log in page must display a forgotten details message and a link for password
 
 ### Access Through an External Authentication Service
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-login-forgotten.png">
+<img class="img-responsive img-thumbnail" alt="Log In Through an External Authentication Service" src="/images/examples/design-standards-access-login-forgotten.png">
 
 ## Log In After Session Timeout
 
@@ -52,7 +52,7 @@ After a failed log in or PIN entry attempt, the application must log out the use
 
 ### Access After Timeout, with PIN Request for Re-authentication  
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-access-login-pinexample.png">
+<img class="img-responsive img-thumbnail" alt="Log In After Timeout, with PIN Request" src="/images/examples/design-standards-access-login-pinexample.png">
 
 
 ## Log Out

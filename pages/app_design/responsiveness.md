@@ -18,4 +18,4 @@ Designs must consider:
 
 ### Tablet Display Example
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-responsiveness-tablet.png">
+<img class="img-responsive img-thumbnail" alt="Tablet Display Example" src="/images/examples/design-standards-responsiveness-tablet.png">

@@ -54,7 +54,7 @@ The app design must use standard menu access points to provide app functions:
 * Top middle - search
 
 ### Layout with Back Button
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-navigation-example-1.png">
+<img class="img-responsive img-thumbnail" alt="Layout with Back Button" src="/images/examples/design-standards-navigation-example-1.png">
 
 ## Behaviour
 Menu items must respond and adapt in size to different devices and screen sizes. See [Responsiveness  and Adaptivity](/responsiveness.html).
@@ -67,7 +67,7 @@ Each menu item must:
 
 Menu item text must be short (Material.io).  Do not wrap text around an icon, or shrink text to fit (Material.io).
 
-<img src="/images/examples/design-standards-navigation-menus.png" style="max-width: 120px"> 
+<img alt="Home Button" src="/images/examples/design-standards-navigation-menus.png" style="max-width: 120px"> 
 
 ## Notifications
 Menu items must display the relevant number of notifications in a red circle on the menu item, including:
@@ -75,4 +75,4 @@ Menu items must display the relevant number of notifications in a red circle on 
 * Pending requests
 * Alerts requiring action
 
-<img src="/images/examples/design-standards-navigation-feed-image.png" style="max-width: 120px">
+<img src="/images/examples/design-standards-navigation-feed-image.png" alt="Notifications Example" style="max-width: 120px">

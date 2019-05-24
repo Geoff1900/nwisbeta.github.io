@@ -34,4 +34,4 @@ The app design must configure crash reports to go to developers, for error track
 
 ### Pop Up Error Message
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-ui-errors-example.png">  
+<img class="img-responsive img-thumbnail" alt="Pop Up Error Message" src="/images/examples/design-standards-ui-errors-example.png">  

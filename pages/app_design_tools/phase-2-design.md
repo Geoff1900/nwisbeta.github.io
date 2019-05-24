@@ -18,7 +18,7 @@ The design must:
 * Specify each icon and attributes (size and colour), colour palette used for page, font and font size
 
 ### Generic Layout Showing Menu Item Locations
-<img class="img-responsive img-thumbnail" src="/images/examples/considerations-phase-2-general-example.png">
+<img class="img-responsive img-thumbnail" alt="Generic Layout Showing Menu Item Locations" src="/images/examples/considerations-phase-2-general-example.png">
 
 Menu items:
 * 1 – used for general information provision, content, feeds, library, guides 
@@ -28,7 +28,7 @@ Menu items:
 * 5 - Outputs specific to the app such as results reports, galleries
 
 ### Clinical App Design
-<img class="img-responsive img-thumbnail" src="/images/examples/considerations-phase-2-general-example2.png">
+<img class="img-responsive img-thumbnail" alt="Clinical App Design" src="/images/examples/considerations-phase-2-general-example2.png">
 
 ## Checklist
 Check that the team has completed the requirements specification and checklist before proceeding.

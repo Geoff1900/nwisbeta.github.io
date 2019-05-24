@@ -40,7 +40,7 @@ The app design must ensure additional non-essential information is accessible by
 
 ### Clinical App with Patient Information
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-ui-patient-info.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Clinical App with Patient Information" src="/images/examples/design-standards-ui-patient-info.png">
 
 ## Patient Results
 Only show recent or relevant patient results to avoid display of inaccurate/misleading information (GDPR, ICO).

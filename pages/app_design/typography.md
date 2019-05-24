@@ -61,7 +61,7 @@ The app design must use titles, headings, subtitles and body text consistently t
 The design must use bold to identify important information. Titles and headings must appear in bold text.
 
 ### Clinical App: Patient Information is Centred, Bold
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-typography-styles.png">
+<img class="img-responsive img-thumbnail" alt="Patient Information is Centred, Bold" src="/images/examples/design-standards-typography-styles.png">
 
 ### Paragraphs
 
@@ -109,7 +109,7 @@ For the following use cases, text may use right alignment:
 
 ### Settings page: General Settings, Preferences, Accessibility, Legal/Privacy, Log Out
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-alignment-example.png">
+<img class="img-responsive img-thumbnail" alt="Settings Page" src="/images/examples/design-standards-alignment-example.png">
 
 ## Links
 Users must be able to determine the purpose of the link from the link itself, or from link context (WCAG 2.1).
@@ -133,7 +133,7 @@ Links must open within the app, either embedded on the access page or within a n
 | Body  | Calibri   | 14                 | Sentence  | Bold Underlined |
 
 ### In-app Link
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-links-example.png"> 
+<img class="img-responsive img-thumbnail" alt="In-app Link" src="/images/examples/design-standards-links-example.png"> 
 
 ## Standard Units
 

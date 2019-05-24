@@ -18,4 +18,4 @@ The app design must order alerts from high alert to low or no alert.
 
 ### Alerts Display
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-ordering-example.png">
+<img class="img-responsive img-thumbnail" alt="Alerts Display" src="/images/examples/design-standards-ordering-example.png">

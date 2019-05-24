@@ -19,7 +19,7 @@ The 'Home Page' or the 'Main Screen/Page' must include the most important app fe
 
 ### Most Important Feature Appears on the Home Page 
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-search.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Most Important Feature" src="/images/examples/design-standards-sf-search.png">
 
 ## Settings
 
@@ -48,7 +48,8 @@ Clicking a settings menu item must open a new page, which must have a back butto
 
 ### Settings Page
  
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-settings.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Settings page" src="/images/examples/design-standards-sf-settings.png">
+
 
 ## Help
 The settings menu must include Help, to access help functions such as support information and tutorials.  
@@ -79,7 +80,7 @@ A feed is a feature which provides regularly updated information such as:
 A feed must display date and time that each item was received.  
 
 ### Feed Page 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-feed-example.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Feed Page" src="/images/examples/design-standards-sf-feed-example.png">
 
 Enable scroll gestures, to allow the user to move through the feed items - see [Touch Gesture Controls](/touch-gesture-control.html).  
 
@@ -121,7 +122,7 @@ See [Touch Gesture Controls](/touch-gesture-control.html) for guidance about sta
 
 ### Connection/communication Page
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-communication-example.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Connection and Communication Page" src="/images/examples/design-standards-sf-communication-example.png">
 
 ## Watchlist and Alerts
 Clinician apps must provide watchlists and alerts. Notifications are generally used instead of watchlist/alerts for patient facing apps.
@@ -185,7 +186,7 @@ Users must address and resolve any notification using established and signed-off
 
 ### Watchlist Page in a Clinical App
  
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-watchlist.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Watchlist Page"  src="/images/examples/design-standards-sf-watchlist.png">
 
 The highest priority notifications must appear at the top of the page. After high priority notifications, the display shows the most recent notifications at the top of the page.  
 
@@ -208,7 +209,7 @@ Clicking the notifications menu item whilst in the notifications menu must scrol
 
 ### Notifications Page to View, Retrieve Notifications
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-notification-example.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Notifications Page" src="/images/examples/design-standards-sf-notification-example.png">
 
 ## Profile
 This profile guidance applies to both clinical and patient apps. 
@@ -225,7 +226,7 @@ Users must be able to view and edit their profile information.
 
 ### Profile Page for Users to Edit
 
-<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-sf-profile-example.png">
+<img class="img-responsive img-thumbnail" alt="" alt="Profile Page" src="/images/examples/design-standards-sf-profile-example.png">
 
 ## Search
 See [Search](/search.html).

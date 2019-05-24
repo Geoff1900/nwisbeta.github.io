@@ -50,11 +50,11 @@ Enable users to easily cancel tutorials at any point after entering.
     <div class="row">
     <div class="col-md-6 col-lg-6"> 
 		<h3>Tutorial Start</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-user-interaction-guides1.png">
+		<img class="img-responsive img-thumbnail" alt="Tutorial Start" src="/images/examples/design-standards-user-interaction-guides1.png">
     </div>
     <div class="col-md-6 col-lg-6">
 		<h3>Tutorial Page 2</h3> 
-		<img class="img-responsive img-thumbnail" src="/images/examples/design-standards-user-interaction-guides2.png">
+		<img class="img-responsive img-thumbnail" alt="Tutorial Page 2" src="/images/examples/design-standards-user-interaction-guides2.png">
     </div>
   </div>
 </div>

@@ -18,10 +18,8 @@ topnav_dropdowns:
         - title: Health APIs
           url: /apiguides_landing_page.html
         - title: App Design Standards
-          url: /about.html
-        - title: App Design Tools
-          url: /phase-1-requirements.html              
-
+          url: /about.html       
+          
     - title: Partners
       folderitems:
         - title: Life Sciences Hub

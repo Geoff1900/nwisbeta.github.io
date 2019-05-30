@@ -109,6 +109,31 @@ After pushing content from your local copy to the GitHub server, go to https://g
 
 See [About pull requests](https://help.github.com/en/articles/about-pull-requests) for details.
 
+### Tip using branches: keep other branches up to date
+
+When you work in one branch, and push the work to the copy of the branch on GitHub, your branch content gradually edges away from the published version of master. [The graph on the Branches page shows how many commits separate a branch from master, and whether the branch is ahead or behind master](https://github.com/nwisbeta/nwisbeta.github.io/branches).
+
+Small changes and differences are easy to merge into the other branches. GitHub will require a manual merge for files where you have changed the frontmatter significantly: for example, if you change which sidebar the file refers to.
+
+To keep other branches up to date with the current master:
+
+1. In GitBash on your desktop, change to the branch you want to update: `git checkout <branchname>`
+
+   GitBash command line will show the branch name.
+
+2. From the branch, merge with master: `git merge master`
+
+   The mnemonic is that you are updating *whichever branch you are in* with content from master.
+
+3. Push the branch to GitHub: `git push`
+
+4. In GitHub, navigate to [the Branches page](https://github.com/nwisbeta/nwisbeta.github.io/branches). GitHub will show the recent push to the branch. 
+
+5. Select 'New pull request' and complete the pull request, to update the GitHub repository copy of the branch to match the one on your desktop.
+
+6. In GitBash on your desktop, while still in the branch, pull to ensure you are working from the repository branch: `git pull`.
+
+
 ## Undoing errors
 
 Git has powerful tools for undoing errors. The two used so far in this project are `Revert`, and checking out an individual commit from a past pull request.

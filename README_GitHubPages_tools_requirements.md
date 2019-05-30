@@ -113,7 +113,7 @@ See [About pull requests](https://help.github.com/en/articles/about-pull-request
 
 When you work in one branch, and push the work to the copy of the branch on GitHub, your branch content gradually edges away from the published version of master. [The graph on the Branches page shows how many commits separate a branch from master, and whether the branch is ahead or behind master](https://github.com/nwisbeta/nwisbeta.github.io/branches).
 
-Small changes and differences are easy to merge into the other branches. GitHub will require a manual merge for files where you have changed the frontmatter significantly: for example, if you change which sidebar the file refers to.
+Small changes and differences are easy to merge into the other branches. 
 
 To keep other branches up to date with the current master:
 
@@ -128,11 +128,6 @@ To keep other branches up to date with the current master:
 3. Push the branch to GitHub: `git push`
 
 4. In GitHub, navigate to [the Branches page](https://github.com/nwisbeta/nwisbeta.github.io/branches). GitHub will show the recent push to the branch. 
-
-5. Select 'New pull request' and complete the pull request, to update the GitHub repository copy of the branch to match the one on your desktop.
-
-6. In GitBash on your desktop, while still in the branch, pull to ensure you are working from the repository branch: `git pull`.
-
 
 ## Undoing errors
 
